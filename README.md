@@ -1,4 +1,4 @@
-# Task description for this group project:
+# Task description for this project:
 
 This web application will allow animal shelters and pet adoption agencies to list available pets for adoption. Potential adopters can search for pets by various criteria and apply for adoption by filling out an application form. The platform also provides a resource library with detailed information on pet care, training, and behavior.
 The Pet Adoption Platform also offers several creative features, such as a pet matchmaker, adoption stories page, foster-to-adopt program, pet of the day/week, and volunteer opportunities with calendars.
